@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
-<svg version="1.1" baseProfile="tiny" id="scene_x5F_cooking"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="361px" height="361px"
-	 viewBox="0 0 361 361" xml:space="preserve">
-<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" d="M268.982,274.878c0,3.314-2.687,6-6,6h-170
-	c-3.313,0-6-2.686-6-6v-120c0-3.313,2.687-6,6-6h170c3.313,0,6,2.687,6,6V274.878z"/>
-<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" d="M275.315,126.4c0,2.473-2.833,4.478-6.325,4.478
-	H87.307c-3.493,0-6.325-2.005-6.325-4.478v-7.711c0-2.473,2.833-4.478,6.325-4.478H268.99c3.493,0,6.325,2.005,6.325,4.478V126.4z"
-	/>
-<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" d="M191.38,109.389c0,2.664-2.16,4.823-4.824,4.823
-	h-17.418c-2.664,0-4.823-2.16-4.823-4.823V91.702c0-2.664,2.16-4.823,4.823-4.823h17.418c2.664,0,4.824,2.16,4.824,4.823V109.389z"
-	/>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="361px"
+	 height="361px" viewBox="0 0 361 361" style="enable-background:new 0 0 361 361;" xml:space="preserve">
+<g id="scene_x5F_cooking">
+	<path style="fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;" d="M271.5,272c0,3.314-2.687,6-6,6h-170
+		c-3.313,0-6-2.686-6-6V152c0-3.313,2.687-6,6-6h170c3.313,0,6,2.687,6,6V272z"/>
+	<path style="fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;" d="M277.833,123.522
+		c0,2.473-2.833,4.478-6.325,4.478H89.825c-3.493,0-6.325-2.005-6.325-4.478v-7.711c0-2.473,2.833-4.478,6.325-4.478h181.683
+		c3.492,0,6.325,2.005,6.325,4.478V123.522z"/>
+	<path style="fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;" d="M193.898,106.511c0,2.664-2.16,4.823-4.824,4.823
+		h-17.418c-2.664,0-4.823-2.16-4.823-4.823V88.824c0-2.664,2.16-4.823,4.823-4.823h17.418c2.664,0,4.824,2.16,4.824,4.823V106.511z"
+		/>
+</g>
+<g id="Ebene_1">
+</g>
 </svg>

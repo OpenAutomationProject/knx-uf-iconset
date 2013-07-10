@@ -1,27 +1,34 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
-<svg version="1.1" baseProfile="tiny" id="fts_x5F_door_x5F_slide_x5F_2w_x5F_open_x5F_r"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="361px" height="361px"
-	 viewBox="0 0 361 361" xml:space="preserve">
-<g>
-	<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" d="M102.666,283.809c0,3.406,2.712,6.167,6.058,6.167
-		h57.89c3.346,0,6.058-2.761,6.058-6.167V96.712c0-3.406-2.712-6.167-6.058-6.167h-57.89c-3.346,0-6.058,2.761-6.058,6.167V283.809z
-		"/>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="361px"
+	 height="361px" viewBox="0 0 361 361" style="enable-background:new 0 0 361 361;" xml:space="preserve">
+<g id="fts_x5F_door_x5F_slide_x5F_2w_x5F_open_x5F_r">
 	<g>
-		<path fill="#FFFFFF" d="M170.672,178.563c-3.333,0-6.667,0-10,0c-6.449,0-6.449,10,0,10c3.333,0,6.667,0,10,0
-			C177.121,188.563,177.121,178.563,170.672,178.563L170.672,178.563z"/>
+		<path style="fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;" d="M105.184,280.931
+			c0,3.406,2.712,6.167,6.058,6.167h57.89c3.346,0,6.058-2.761,6.058-6.167V93.834c0-3.406-2.712-6.167-6.058-6.167h-57.89
+			c-3.346,0-6.058,2.761-6.058,6.167V280.931z"/>
+		<g>
+			<g>
+				<path style="fill:#FFFFFF;" d="M173.19,175.685c-3.333,0-6.667,0-10,0c-6.449,0-6.449,10,0,10c3.333,0,6.667,0,10,0
+					C179.639,185.686,179.639,175.685,173.19,175.685L173.19,175.685z"/>
+			</g>
+		</g>
+	</g>
+	<path style="fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;" d="M74.521,80.667c0-3.314-0.313-6,3-6h206.333
+		c3.314,0,3,2.686,3,6v0.667c0,3.313,0.314,6-3,6H77.521c-3.313,0-3-2.687-3-6V80.667z"/>
+	<g>
+		<path style="fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;" d="M283.191,280.931
+			c0,3.406-2.713,6.167-6.059,6.167h-57.891c-3.346,0-6.058-2.761-6.058-6.167V93.834c0-3.406,2.712-6.167,6.058-6.167h57.891
+			c3.346,0,6.059,2.761,6.059,6.167V280.931z"/>
+		<g>
+			<g>
+				<path style="fill:#FFFFFF;" d="M215.185,185.686c3.333,0,6.667,0,10,0c6.448,0,6.448-10,0-10c-3.333,0-6.667,0-10,0
+					C208.736,175.685,208.736,185.686,215.185,185.686L215.185,185.686z"/>
+			</g>
+		</g>
 	</g>
 </g>
-<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" d="M72.002,83.545c0-3.314-0.313-6,3-6h206.333
-	c3.313,0,3,2.686,3,6v0.667c0,3.313,0.313,6-3,6H75.002c-3.313,0-3-2.687-3-6V83.545z"/>
-<g>
-	<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" d="M280.673,283.809c0,3.406-2.712,6.167-6.058,6.167
-		h-57.89c-3.346,0-6.058-2.761-6.058-6.167V96.712c0-3.406,2.712-6.167,6.058-6.167h57.89c3.346,0,6.058,2.761,6.058,6.167V283.809z
-		"/>
-	<g>
-		<path fill="#FFFFFF" d="M212.667,188.563c3.333,0,6.667,0,10,0c6.449,0,6.449-10,0-10c-3.333,0-6.667,0-10,0
-			C206.218,178.563,206.218,188.563,212.667,188.563L212.667,188.563z"/>
-	</g>
+<g id="Ebene_1">
 </g>
 </svg>
