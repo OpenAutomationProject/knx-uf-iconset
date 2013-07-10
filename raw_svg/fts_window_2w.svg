@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
-<svg version="1.1" baseProfile="tiny" id="fts_x5F_window_x5F_2w"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="361px" height="361px"
-	 viewBox="0 0 361 361" xml:space="preserve">
-<g>
-	<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" d="M284.299,253.18c0,3.911-3.156,7.083-7.049,7.083
-		l-197.885,0.021c-3.894,0-7.05-3.171-7.05-7.083V125.7c0-3.911,3.156-7.083,7.05-7.083l197.885-0.021
-		c3.893,0,7.049,3.172,7.049,7.083V253.18z"/>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="361px"
+	 height="361px" viewBox="0 0 361 361" style="enable-background:new 0 0 361 361;" xml:space="preserve">
+<g id="fts_x5F_window_x5F_2w">
 	<g>
-		<path fill="#FFFFFF" d="M172.002,194.462c4.203,0,8.406,0,12.609,0c6.449,0,6.449-10,0-10c-4.203,0-8.406,0-12.609,0
-			C165.554,184.462,165.554,194.462,172.002,194.462L172.002,194.462z"/>
+		<path style="fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;" d="M286.817,250.303c0,3.91-3.156,7.082-7.05,7.082
+			l-197.885,0.021c-3.894,0-7.05-3.171-7.05-7.083v-127.5c0-3.911,3.156-7.083,7.05-7.083l197.885-0.021
+			c3.894,0,7.05,3.172,7.05,7.083V250.303z"/>
+		<g>
+			<g>
+				<path style="fill:#FFFFFF;" d="M174.521,191.584c4.203,0,8.406,0,12.609,0c6.448,0,6.448-10,0-10c-4.203,0-8.406,0-12.609,0
+					C168.072,181.584,168.072,191.584,174.521,191.584L174.521,191.584z"/>
+			</g>
+		</g>
+		
+			<line style="fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;" x1="180.825" y1="116.583" x2="180.825" y2="253.758"/>
+		<path style="fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;" d="M286.817,120.208c0,2.485-2.71,4.5-6.052,4.5
+			l-199.88,0.021c-3.342,0-6.052-2.015-6.052-4.5v-9c0-2.485,2.71-4.5,6.052-4.5l199.88-0.021c3.342,0,6.052,2.015,6.052,4.5
+			V120.208z"/>
 	</g>
-	
-		<line fill="none" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" x1="178.307" y1="119.46" x2="178.307" y2="256.635"/>
-	<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" d="M284.299,123.086c0,2.485-2.71,4.5-6.052,4.5
-		l-199.88,0.021c-3.342,0-6.052-2.015-6.052-4.5v-9c0-2.485,2.71-4.5,6.052-4.5l199.88-0.021c3.342,0,6.052,2.015,6.052,4.5V123.086
-		z"/>
+</g>
+<g id="Ebene_1">
 </g>
 </svg>

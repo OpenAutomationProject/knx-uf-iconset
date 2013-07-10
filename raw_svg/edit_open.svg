@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
-<svg version="1.1" baseProfile="tiny" id="edit_x5F_open"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="361px" height="361px"
-	 viewBox="0 0 361 361" xml:space="preserve">
-<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" d="M246.595,270.351H80.636
-	c-4.433,0-8.026-3.593-8.026-8.026V106.366c0-4.433,3.593-8.026,8.026-8.026h46.013c6.833,0,8.873,4.039,8.873,7.183
-	c0,14.211,9.213,12.817,10.958,12.817c25.135,0,100.116,0,100.116,0c4.215,0,7.671,3.25,8,7.38
-	c0.017,0.213,0.026,42.403,0.026,42.62"/>
-<path display="none" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" d="M254.621,281.325
-	c0,4.433-3.594,8.026-8.026,8.026H80.636c-4.433,0-8.026-3.593-8.026-8.026V135.366c0-4.433,3.593-8.026,8.026-8.026h46.013
-	c6.833,0,8.873,4.039,8.873,7.183c0,14.211,9.213,12.817,10.958,12.817c25.135,0,100.116,0,100.116,0
-	c4.432,0,8.026,3.593,8.026,8.026V281.325z"/>
-<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" d="M254.621,262.325c0,4.433-3.594,8.026-8.026,8.026
-	H80.636c-4.433,0-8.026-3.593-8.026-8.026l29-105.959c0-4.433,3.593-8.026,8.026-8.026h46.013c6.833,0,8.873,4.039,8.873,7.183
-	c0,14.211,9.213,12.817,10.958,12.817c25.135,0,100.116,0,100.116,0c4.432,0,8.026,3.593,8.026,8.026L254.621,262.325z"/>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="361px"
+	 height="361px" viewBox="0 0 361 361" style="enable-background:new 0 0 361 361;" xml:space="preserve">
+<g id="edit_x5F_open">
+	<path style="fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;" d="M249.113,267.473H83.154
+		c-4.433,0-8.026-3.593-8.026-8.025V103.488c0-4.433,3.593-8.026,8.026-8.026h46.013c6.833,0,8.873,4.039,8.873,7.183
+		c0,14.211,9.213,12.817,10.958,12.817c25.135,0,100.116,0,100.116,0c4.215,0,7.672,3.25,8,7.38
+		c0.018,0.213,0.025,42.403,0.025,42.62"/>
+	<path style="display:none;fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;" d="M257.139,278.447
+		c0,4.433-3.594,8.025-8.025,8.025H83.154c-4.433,0-8.026-3.593-8.026-8.025V132.488c0-4.433,3.593-8.026,8.026-8.026h46.013
+		c6.833,0,8.873,4.039,8.873,7.183c0,14.211,9.213,12.817,10.958,12.817c25.135,0,100.116,0,100.116,0
+		c4.432,0,8.025,3.593,8.025,8.026V278.447z"/>
+	<path style="fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;" d="M257.139,259.447
+		c0,4.433-3.594,8.025-8.025,8.025H83.154c-4.433,0-8.026-3.593-8.026-8.025l29-105.959c0-4.433,3.593-8.026,8.026-8.026h46.013
+		c6.833,0,8.873,4.039,8.873,7.183c0,14.211,9.213,12.817,10.958,12.817c25.135,0,100.116,0,100.116,0
+		c4.432,0,8.025,3.593,8.025,8.026L257.139,259.447z"/>
+</g>
+<g id="Ebene_1">
+</g>
 </svg>

@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
-<svg version="1.1" baseProfile="tiny" id="audio_x5F_sound"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="361px" height="361px"
-	 viewBox="0 0 361 361" xml:space="preserve">
-<g>
-	<path fill="#FFFFFF" d="M136.815,122.545c0,43,0,86,0,129c0,6.449,10,6.449,10,0c0-43,0-86,0-129
-		C146.815,116.096,136.815,116.096,136.815,122.545L136.815,122.545z"/>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="361px"
+	 height="361px" viewBox="0 0 361 361" style="enable-background:new 0 0 361 361;" xml:space="preserve">
+<g id="audio_x5F_sound">
+	<g>
+		<g>
+			<path style="fill:#FFFFFF;" d="M139.333,119.667c0,43,0,86,0,129c0,6.448,10,6.448,10,0c0-43,0-86,0-129
+				C149.333,113.218,139.333,113.218,139.333,119.667L139.333,119.667z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path style="fill:#FFFFFF;" d="M255.333,107.667c0,38.333,0,76.667,0,115c0,6.448,10,6.448,10,0c0-38.333,0-76.667,0-115
+				C265.333,101.218,255.333,101.218,255.333,107.667L255.333,107.667z"/>
+		</g>
+	</g>
+	<path style="fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;" d="M260.328,105.063
+		c0.697,3.087-1.239,6.158-4.327,6.858l-102.062,23.09c-3.088,0.697-6.158-1.24-6.857-4.329l-2.741-12.117
+		c-0.698-3.088,1.239-6.158,4.327-6.857l102.061-23.09c3.088-0.698,6.16,1.239,6.858,4.327L260.328,105.063z"/>
+	
+		<ellipse transform="matrix(0.9638 -0.2667 0.2667 0.9638 -62.8719 41.3291)" style="fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;" cx="120.739" cy="252.161" rx="23.486" ry="15.492"/>
+	
+		<ellipse transform="matrix(0.9638 -0.2667 0.2667 0.9638 -52.7686 71.7339)" style="fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;" cx="237.739" cy="230.161" rx="23.486" ry="15.492"/>
 </g>
-<g>
-	<path fill="#FFFFFF" d="M252.815,110.545c0,38.333,0,76.667,0,115c0,6.449,10,6.449,10,0c0-38.333,0-76.667,0-115
-		C262.815,104.096,252.815,104.096,252.815,110.545L252.815,110.545z"/>
+<g id="Ebene_1">
 </g>
-<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" d="M257.811,107.941
-	c0.697,3.087-1.24,6.158-4.328,6.858l-102.062,23.09c-3.088,0.697-6.158-1.24-6.857-4.329l-2.741-12.117
-	c-0.698-3.088,1.239-6.158,4.327-6.857l102.061-23.09c3.088-0.698,6.159,1.239,6.858,4.327L257.811,107.941z"/>
-<ellipse transform="matrix(0.9638 -0.2667 0.2667 0.9638 -63.7305 40.7618)" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" cx="118.221" cy="255.039" rx="23.486" ry="15.492"/>
-<ellipse transform="matrix(0.9638 -0.2667 0.2667 0.9638 -53.6268 71.1657)" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" cx="235.221" cy="233.039" rx="23.486" ry="15.492"/>
 </svg>
