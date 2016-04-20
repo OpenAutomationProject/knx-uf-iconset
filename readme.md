@@ -14,8 +14,8 @@ Ubuntu Font License 1.0
 
 Concerning Ubuntu Font License
 
-icons including unmodified or modified Ubuntu Font elements
-=============================================================
+(icons including unmodified or modified Ubuntu Font elements)
+
 
 - control_building_2_s_all.png     
 - control_building_2_s_dg.png
