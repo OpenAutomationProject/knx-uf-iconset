@@ -9,9 +9,9 @@ https://knx-user-forum.de/forum/playground/knx-uf-iconset*
 
 ### License
 CC BY-SA 3.0
+https://creativecommons.org/licenses/by-sa/3.0/deed.en
 
-Ubuntu Font License 1.0
-
+Ubuntu Font License 1.0:
 Concerning Ubuntu Font License
 
 (icons including unmodified or modified Ubuntu Font elements)
