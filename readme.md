@@ -8,7 +8,7 @@ https://knx-user-forum.de/forum/playground/knx-uf-iconset*
 
 
 ### License
-CC BY-SA 3.0 DE
+CC BY-SA 3.0
 
 Ubuntu Font License 1.0
 
@@ -134,7 +134,7 @@ Concerning Ubuntu Font License
 - time_automatic.png               
 - time_eco_mode.png
 - time_timer_switch.png                
--vent_low_pressure_protection_unit.png
+- vent_low_pressure_protection_unit.png
 - vent_low_pressure_warning.png         
 - vent_stop.png
 - vent_ventilation_level_automatic.png  
